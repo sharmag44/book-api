@@ -1,0 +1,21 @@
+{
+  "db": {
+    "username": "bcoderAdmin",
+    "password": "Bcoderdev@123",
+    "database": "dispatch_nde_db",
+    "host": "199.192.21.220",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "webServer": {
+    "port": "3000"
+  },
+  "logger": {
+    "console": {
+      "level": "silly",
+      "handleExceptions": true,
+      "json": false,
+      "colorize": true
+    }
+  }
+}
